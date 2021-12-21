@@ -6,13 +6,13 @@
 ### <div align="center">I'm Jean-Luca, a hobby full-stack developer 🚀</div>  
   
 
-- 🌱 I’m currently learning Rust, Kubernetes, Docker and flutter  
+- 🌱 I’m currently learning Rust, Kubernetes, Typescript/JavaScript and Docker 
   
 
 - ❓ Ask me about anything related to coding, if you want help  
   
 
-[This ReadMe is made with](https://profilinator.rishav.dev/)  
+
   
 
 <br/>  
